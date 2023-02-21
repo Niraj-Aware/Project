@@ -1,7 +1,7 @@
 # Project
 Final Year B.E Project
 
-To compare the performance of the three algorithms (BoW, tf-idf, and fuzzywuzzy) on the Quora dataset, you can use the following code to create a bar chart showing their accuracy:
+To compare the performance of the three algorithms (BoW, tf-idf, and fuzzywuzzy) on the Quora dataset, visualisation charts help to show their accuracy:
 
 1.Reads in the Quora training data from a CSV file, using only sample data.
 
