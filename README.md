@@ -13,4 +13,4 @@ To compare the performance of the three algorithms (BoW, tf-idf, and fuzzywuzzy)
 
 5.Plots a bar chart comparing the accuracy of each approach.
 
-After the comparative analysis we choose the best approach algorithm to create the model that predicts the duplicate question on basis of traning data.
+After the comparative analysis we choose the best approach algorithm to create the model that predicts the duplicate question on basis of trained ML model.
